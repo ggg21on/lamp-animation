@@ -45,8 +45,7 @@ body {
 .bottom-cover {
     background: rgb(25, 0, 0);
     background: linear-gradient(90deg,
-            rgb(0, 0, 0)
-            rgb(0, 0, 0) 45%,
+            rgb(0, 0, 0) rgb(0, 0, 0) 45%,
             rgb(0, 0, 0) 63%);
     top: 85%;
 }
